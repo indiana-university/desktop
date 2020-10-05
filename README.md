@@ -1,2 +1,2 @@
-# desktop
-IU Desktop is an application for Windows and Mac OS which will allow one-stop access to IU email, cloud storage, class materials, grades, and other important online tasks. 
+# IU Desktop
+IU Desktop is an application for Windows and Mac OS which will allow one-stop access to IU email, cloud storage, class materials, grades, and other important online tasks. The main goal is to support retention by helping current students work with purpose and focus by organizing in one place their most-used apps (Canvas, Google, One.IU, Student Center, etc). This app can be also used also by faculty and staff.
